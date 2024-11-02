@@ -59,5 +59,4 @@ Feel free to connect with me through the following platforms:
 
 GitHub   :-  https://github.com/shasank1290
 LinkedIn :- https://www.linkedin.com/in/shasank-kumar-305543250/
-Instagram :-https://www.instagram.com/itz_me_shasank/
-Gmail:- sashankkumar0001@gmail.com"# React-Native-Web-View" 
+Gmail:- sashankkumar0001@gmail.com
